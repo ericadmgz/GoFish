@@ -56,7 +56,6 @@ private:
     int myRank;
     Suit mySuit;
 
-
 };
 
 ostream& operator << (ostream& out, const Card& c);
